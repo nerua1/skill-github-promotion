@@ -1,0 +1,21 @@
+{
+  "name": "github-promotion",
+  "version": "1.0.0",
+  "description": "Complete GitHub repo promotion playbook",
+  "author": "nerua1 <nerudek.vibecoder@gmail.com>",
+  "license": "MIT",
+  "type": "skill",
+  "main": "SKILL.md",
+  "keywords": ["openclaw", "skill", "ai-agent"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nerua1/github-promotion"
+  },
+  "bugs": {
+    "url": "https://github.com/nerua1/github-promotion/issues"
+  },
+  "homepage": "https://github.com/nerua1/github-promotion#readme",
+  "engines": {
+    "openclaw": ">=2026.4.0"
+  }
+}
