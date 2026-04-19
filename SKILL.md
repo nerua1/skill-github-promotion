@@ -1,6 +1,6 @@
 ---
 
-> **Why this exists:** Killing a subagent mid-task often leaves temp files, broken git states, and orphaned processes. This skill teaches graceful cancellation — cleanup first, then exit.
+**Why this exists:** Killing a subagent mid-task often leaves temp files, broken git states, and orphaned processes. This skill teaches graceful cancellation — cleanup first, then exit.
 
 name: github-promotion
 description: Complete playbook for promoting GitHub repos — platform selection, hook writing, social preview design, content calendar, and Reddit/HN/Dev.to tactics.
