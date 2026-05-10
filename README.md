@@ -6,7 +6,7 @@ Complete playbook for promoting GitHub repos — platform selection, hook writin
 
 ```bash
 # Clone to your OpenClaw skills directory
-git clone https://github.com/nerua1/skill-github-promotion.git ~/.openclaw/skills/github-promotion
+git clone https://github.com/nerudek/skill-github-promotion.git ~/.openclaw/skills/github-promotion
 
 # Or symlink if you keep skills elsewhere
 ln -s /path/to/skill-github-promotion ~/.openclaw/skills/github-promotion

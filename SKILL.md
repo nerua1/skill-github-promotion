@@ -3,7 +3,7 @@
 description: Complete playbook for promoting GitHub repos — platform selection, hook writing, social preview design, content calendar, and Reddit/HN/Dev.to tactics.
 type: reference
 created: 2026-04-18
-authors: [nerua1]
+authors: [nerudek]
 version: "1.0.0"
 ---
 
@@ -77,7 +77,7 @@ version: "1.0.0"
 1280x640 social preview card. Dark gradient from deep purple to navy.
 LEFT (60%): Large white title "[REPO NAME]" + gray subtitle "[HOOK]".
 RIGHT (40%): Circular profile photo, white border + small agent icons.
-Bottom-left: "AI agent skill". Bottom-right: "github.com/nerua1/[repo]".
+Bottom-left: "AI agent skill". Bottom-right: "github.com/nerudek/[repo]".
 Style: Minimal, dark mode, cyberpunk-lite. High contrast.
 ```
 
